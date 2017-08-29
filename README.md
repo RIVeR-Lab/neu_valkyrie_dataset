@@ -1,1 +1,1 @@
-# neu_valkyrie_dataset
+# Northeastern’s NASA Valkyrie Humanoid Robot Dataset
