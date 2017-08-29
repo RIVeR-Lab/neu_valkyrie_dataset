@@ -1,5 +1,8 @@
 # Northeastern’s NASA Valkyrie Humanoid Robot Dataset
 
+## Download the Dataset
+ [Dataset](http://hdl.handle.net/2047/D20249932) (435 MB)
+
 ## Dataset Video Example
  [![Dataset Youtube Video](https://img.youtube.com/vi/H5slSraVXas/0.jpg)](https://youtu.be/H5slSraVXas)
 
